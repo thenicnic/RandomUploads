@@ -1,0 +1,734 @@
+---Detected Device Info---
+
+isAB=false
+isSAR=true
+ramdisk=true
+
+
+---System Properties---
+
+[af.fast_track_multiplier]: [1]
+[audio.deep_buffer.media]: [true]
+[audio.offload.buffer.size.kb]: [32]
+[audio.offload.gapless.enabled]: [false]
+[audio.offload.pcm.16bit.enable]: [true]
+[audio.offload.pcm.24bit.enable]: [true]
+[audio.offload.video]: [false]
+[audio_hal.period_size]: [192]
+[av.streaming.offload.enable]: [enable]
+[build.version.extensions.r]: [0]
+[cache_key.bluetooth.get_bond_state]: [-4667149411844988101]
+[cache_key.bluetooth.get_profile_connection_state]: [-4667149411844988098]
+[cache_key.bluetooth.get_state]: [-4667149411844988097]
+[cache_key.bluetooth.is_offloaded_filtering_supported]: [-4667149411844988102]
+[cache_key.display_info]: [-5816859213163891170]
+[cache_key.has_system_feature]: [-5816859213163891176]
+[cache_key.is_compat_change_enabled]: [-5816859213163891159]
+[cache_key.is_interactive]: [-5816859213163891185]
+[cache_key.is_power_save_mode]: [-5816859213163891167]
+[cache_key.is_user_unlocked]: [-5816859213163891161]
+[cache_key.location_enabled]: [-5816859213163891166]
+[cache_key.package_info]: [-5816859213163891158]
+[cache_key.telephony.get_active_data_sub_id]: [-1924858390483277714]
+[cache_key.telephony.get_default_data_sub_id]: [-1924858390483277730]
+[cache_key.telephony.get_default_sms_sub_id]: [-1924858390483277733]
+[cache_key.telephony.get_default_sub_id]: [-1924858390483277728]
+[cache_key.telephony.get_slot_index]: [-1924858390483277727]
+[camera.disable_zsl_mode]: [1]
+[dalvik.vm.appimageformat]: [lz4]
+[dalvik.vm.boot-dex2oat-threads]: [4]
+[dalvik.vm.dex2oat-Xms]: [64m]
+[dalvik.vm.dex2oat-Xmx]: [512m]
+[dalvik.vm.dex2oat-max-image-block-size]: [524288]
+[dalvik.vm.dex2oat-minidebuginfo]: [true]
+[dalvik.vm.dex2oat-resolve-startup-strings]: [true]
+[dalvik.vm.dex2oat-threads]: [2]
+[dalvik.vm.dex2oat-updatable-bcp-packages-file]: [/system/etc/updatable-bcp-packages.txt]
+[dalvik.vm.dexopt.secondary]: [true]
+[dalvik.vm.heapgrowthlimit]: [192m]
+[dalvik.vm.heapmaxfree]: [8m]
+[dalvik.vm.heapminfree]: [2m]
+[dalvik.vm.heapsize]: [512m]
+[dalvik.vm.heapstartsize]: [16m]
+[dalvik.vm.heaptargetutilization]: [0.75]
+[dalvik.vm.image-dex2oat-Xms]: [64m]
+[dalvik.vm.image-dex2oat-Xmx]: [64m]
+[dalvik.vm.image-dex2oat-threads]: [4]
+[dalvik.vm.isa.arm.features]: [default]
+[dalvik.vm.isa.arm.variant]: [krait]
+[dalvik.vm.minidebuginfo]: [true]
+[dalvik.vm.usejit]: [true]
+[dalvik.vm.usejitprofiles]: [true]
+[debug.atrace.tags.enableflags]: [0]
+[debug.force_rtl]: [false]
+[debug.hwui.use_buffer_age]: [false]
+[debug.mdpcomp.4k2kSplit]: [1]
+[debug.mdpcomp.logs]: [0]
+[debug.sf.enable_gl_backpressure]: [1]
+[debug.tracing.screen_brightness]: [0.07799286]
+[dev.bootcomplete]: [1]
+[dev.pm.dyn_samplingrate]: [1]
+[gsm.current.phone-type]: [1]
+[gsm.network.type]: [LTE]
+[gsm.operator.alpha]: [Telekom.de]
+[gsm.operator.iso-country]: [de]
+[gsm.operator.isroaming]: [false]
+[gsm.operator.numeric]: [26201]
+[gsm.sim.operator.alpha]: [Telekom.de]
+[gsm.sim.operator.iso-country]: [de]
+[gsm.sim.operator.numeric]: [26201]
+[gsm.sim.state]: [LOADED]
+[gsm.version.baseband]: [8974-AAAAANAZQ-00112-61]
+[gsm.version.ril-impl]: [Qualcomm RIL 1.0]
+[hw.camera.0.status.power]: [off]
+[hw.camera.0.status.thermal]: []
+[hw.camera.1.status.power]: [off]
+[hw.camera.1.status.thermal]: []
+[hwservicemanager.ready]: [true]
+[init.svc.adbd]: [running]
+[init.svc.adsprpcd]: [running]
+[init.svc.apexd]: [stopped]
+[init.svc.apexd-bootstrap]: [stopped]
+[init.svc.apexd-snapshotde]: [stopped]
+[init.svc.audioserver]: [running]
+[init.svc.bootanim]: [stopped]
+[init.svc.boringssl_self_test32]: [stopped]
+[init.svc.boringssl_self_test32_vendor]: [stopped]
+[init.svc.boringssl_self_test_apex32]: [stopped]
+[init.svc.bpfloader]: [stopped]
+[init.svc.credmgrd]: [running]
+[init.svc.credstore]: [running]
+[init.svc.derive_sdk]: [stopped]
+[init.svc.drm]: [running]
+[init.svc.gatekeeperd]: [running]
+[init.svc.gpu]: [running]
+[init.svc.health-hal-2-1]: [running]
+[init.svc.heapprofd]: [stopped]
+[init.svc.hidl_memory]: [running]
+[init.svc.hvdcp]: [running]
+[init.svc.hwservicemanager]: [running]
+[init.svc.idmap2d]: [stopped]
+[init.svc.incidentd]: [running]
+[init.svc.initcredmgr]: [stopped]
+[init.svc.installd]: [running]
+[init.svc.iorapd]: [stopped]
+[init.svc.irsc_util]: [stopped]
+[init.svc.keystore]: [running]
+[init.svc.lmkd]: [running]
+[init.svc.logd]: [running]
+[init.svc.logd-auditctl]: [stopped]
+[init.svc.logd-reinit]: [stopped]
+[init.svc.macaddrsetup]: [stopped]
+[init.svc.media]: [running]
+[init.svc.media.swcodec]: [running]
+[init.svc.mediadrm]: [running]
+[init.svc.mediaextractor]: [running]
+[init.svc.mediametrics]: [running]
+[init.svc.mlog_qmi_service]: [running]
+[init.svc.mpdecision]: [running]
+[init.svc.netd]: [running]
+[init.svc.netmgrd]: [running]
+[init.svc.property_taimport]: [stopped]
+[init.svc.qcamerasvr]: [running]
+[init.svc.qmuxd]: [running]
+[init.svc.qseecomd]: [running]
+[init.svc.ril-daemon]: [running]
+[init.svc.ril-daemon1]: [running]
+[init.svc.rmt_storage]: [running]
+[init.svc.rss_hwm_reset]: [stopped]
+[init.svc.scd]: [running]
+[init.svc.sct_service]: [running]
+[init.svc.sensors]: [running]
+[init.svc.servicemanager]: [running]
+[init.svc.statsd]: [running]
+[init.svc.storaged]: [running]
+[init.svc.suntrold-sh]: [running]
+[init.svc.surfaceflinger]: [running]
+[init.svc.system_suspend]: [running]
+[init.svc.ta_qmi_service]: [running]
+[init.svc.tad_static]: [running]
+[init.svc.taimport]: [stopped]
+[init.svc.thermanager]: [running]
+[init.svc.timekeep]: [stopped]
+[init.svc.tombstoned]: [running]
+[init.svc.traced]: [running]
+[init.svc.traced_perf]: [stopped]
+[init.svc.traced_probes]: [running]
+[init.svc.ueventd]: [running]
+[init.svc.uim]: [running]
+[init.svc.updatemiscta]: [stopped]
+[init.svc.usbd]: [stopped]
+[init.svc.vendor.bluetooth-1-0]: [running]
+[init.svc.vendor.cas-hal-1-2]: [running]
+[init.svc.vendor.configstore-hal]: [running]
+[init.svc.vendor.drm-hal-1-0]: [running]
+[init.svc.vendor.gatekeeper-1-0]: [running]
+[init.svc.vendor.gnss_service]: [running]
+[init.svc.vendor.gralloc-2-0]: [running]
+[init.svc.vendor.hwcomposer-2-1]: [running]
+[init.svc.vendor.keymaster-3-0]: [running]
+[init.svc.vendor.light-hal-2-0]: [running]
+[init.svc.vendor.media.omx]: [running]
+[init.svc.vendor.memtrack-hal-1-0]: [running]
+[init.svc.vendor.nfc_hal_service]: [running]
+[init.svc.vendor.power]: [running]
+[init.svc.vendor.sensors-hal-1-0]: [running]
+[init.svc.vendor.touch-hal-1-0]: [running]
+[init.svc.vendor.usb-hal-1-0]: [running]
+[init.svc.vendor.vibrator-1-0]: [running]
+[init.svc.vendor.wifi_hal_legacy]: [running]
+[init.svc.vndservicemanager]: [running]
+[init.svc.vold]: [running]
+[init.svc.wificond]: [running]
+[init.svc.wpa_supplicant]: [running]
+[init.svc.zygote]: [running]
+[init.taimport.ready]: [true]
+[keyguard.no_require_sim]: [true]
+[log.tag.APM_AudioPolicyManager]: [D]
+[log.tag.stats_log]: [I]
+[media.aac_51_output_enabled]: [true]
+[media.stagefright.legacyencoder]: [true]
+[media.stagefright.less-secure]: [true]
+[net.bt.name]: [Android]
+[net.qtaguid_enabled]: [1]
+[net.rmnet0.dns1]: [10.74.210.210]
+[net.rmnet0.dns2]: [10.74.210.211]
+[net.rmnet0.gw]: [10.24.53.106]
+[net.tcp.default_init_rwnd]: [60]
+[net.tcp.delack.default]: [1]
+[net.tcp.delack.lte]: [8]
+[net.tcp.delack.wifi]: [20]
+[net.tcp.usercfg.default]: [0]
+[net.tcp.usercfg.lte]: [1]
+[net.tcp.usercfg.wifi]: [1]
+[net.tethering.noprovisioning]: [true]
+[nfc.initialized]: [true]
+[persist.adb.nonblocking_ffs]: [0]
+[persist.audio.fluence.audiorec]: [true]
+[persist.audio.fluence.speaker]: [true]
+[persist.audio.fluence.voicecall]: [true]
+[persist.audio.fluence.voicerec]: [false]
+[persist.data.qmi.adb_logmask]: [0]
+[persist.demo.hdmirotationlock]: [false]
+[persist.gps.qc_nlp_in_use]: [0]
+[persist.hwc.mdpcomp.enable]: [true]
+[persist.radio.adb_log_on]: [0]
+[persist.radio.add_power_save]: [1]
+[persist.radio.apm_sim_not_pwdn]: [1]
+[persist.radio.calls.on.ims]: [0]
+[persist.radio.data_no_toggle]: [1]
+[persist.radio.eons.enabled]: [false]
+[persist.radio.oem_socket]: [true]
+[persist.radio.ril_payload_on]: [0]
+[persist.speaker.prot.enable]: [false]
+[persist.sys.dalvik.vm.lib.2]: [libart.so]
+[persist.sys.device_provisioned]: [1]
+[persist.sys.displayinset.top]: [0]
+[persist.sys.fuse]: [true]
+[persist.sys.gps.lpp]: [2]
+[persist.sys.isUsbOtgEnabled]: [true]
+[persist.sys.isolated_storage]: [true]
+[persist.sys.lmk.reportkills]: [false]
+[persist.sys.locale]: [de-DE]
+[persist.sys.timezone]: [Europe/Berlin]
+[persist.sys.usb.config]: [adb]
+[persist.sys.wfd.virtual]: [0]
+[persist.timed.enable]: [true]
+[pm.dexopt.ab-ota]: [speed-profile]
+[pm.dexopt.bg-dexopt]: [speed-profile]
+[pm.dexopt.boot]: [verify]
+[pm.dexopt.first-boot]: [quicken]
+[pm.dexopt.inactive]: [verify]
+[pm.dexopt.install]: [speed-profile]
+[pm.dexopt.shared]: [speed]
+[qcom.hw.aac.encoder]: [true]
+[ril.ecclist]: [112,110,911]
+[ril.ecclist1]: [112,110,911]
+[ril.qcril_pre_init_lock_held]: [0]
+[ril.subscription.types]: [NV,RUIM]
+[rild.libargs]: [-d[SPACE]/dev/smd0]
+[rild.libpath]: [/system/vendor/lib/libril-qc-qmi-1.so]
+[ro.actionable_compatible_property.enabled]: [false]
+[ro.adb.nonblocking_ffs]: [0]
+[ro.adb.secure]: [1]
+[ro.allow.mock.location]: [0]
+[ro.apex.updatable]: [false]
+[ro.baseband]: [msm]
+[ro.board.platform]: [msm8974]
+[ro.boot.baseband]: [msm]
+[ro.boot.bootloader]: [s1]
+[ro.boot.emmc]: [true]
+[ro.boot.hardware]: [qcom]
+[ro.boot.oemandroidboot.s1boot]: [1286-7314_S1_Boot_MSM8974AC_LA3.0_M_3]
+[ro.bootimage.build.date]: [Wed Oct 27 05:58:01 CEST 2021]
+[ro.bootimage.build.date.utc]: [1635307081]
+[ro.bootimage.build.fingerprint]: [Sony/D5803/D5803:6.0.1/23.5.A.1.291/2769308465:user/release-keys]
+[ro.bootloader]: [s1]
+[ro.bootmode]: [unknown]
+[ro.build.characteristics]: [default]
+[ro.build.date]: [Wed Oct 27 05:58:01 CEST 2021]
+[ro.build.date.utc]: [1635307081]
+[ro.build.description]: [D5803-user 6.0.1 23.5.A.1.291 2769308465 release-keys]
+[ro.build.display.id]: [RQ3A.211001.001]
+[ro.build.fingerprint]: [Sony/D5803/D5803:6.0.1/23.5.A.1.291/2769308465:user/release-keys]
+[ro.build.flavor]: [carbon_z3c-user]
+[ro.build.host]: [saturn.carbonrom.org]
+[ro.build.id]: [RQ3A.211001.001]
+[ro.build.product]: [z3c]
+[ro.build.selinux]: [1]
+[ro.build.tags]: [release-keys]
+[ro.build.type]: [user]
+[ro.build.user]: [carbon]
+[ro.build.version.all_codenames]: [REL]
+[ro.build.version.base_os]: []
+[ro.build.version.codename]: [REL]
+[ro.build.version.incremental]: [162]
+[ro.build.version.min_supported_target_sdk]: [23]
+[ro.build.version.preview_sdk]: [0]
+[ro.build.version.preview_sdk_fingerprint]: [REL]
+[ro.build.version.release]: [11]
+[ro.build.version.release_or_codename]: [11]
+[ro.build.version.sdk]: [30]
+[ro.build.version.security_patch]: [2021-10-01]
+[ro.carbon.build.version]: [CR-9.0]
+[ro.carbon.device]: [z3c]
+[ro.carbon.version]: [CR-9.0-R-WEEKLY-z3c-20211027-0359]
+[ro.carrier]: [unknown]
+[ro.com.android.dataroaming]: [false]
+[ro.com.android.wifi-watchlist]: [GoogleGuest]
+[ro.com.google.clientidbase]: [android-sony]
+[ro.config.alarm_alert]: [Carbon.ogg]
+[ro.config.media_vol_steps]: [25]
+[ro.config.notification_sound]: [Pollux.ogg]
+[ro.config.ringtone]: [Solarium.ogg]
+[ro.config.vc_call_vol_steps]: [7]
+[ro.control_privapp_permissions]: [enforce]
+[ro.crypto.state]: [unencrypted]
+[ro.dalvik.vm.native.bridge]: [0]
+[ro.data.large_tcp_window_size]: [true]
+[ro.debuggable]: [0]
+[ro.gps.agps_provider]: [1]
+[ro.hardware]: [qcom]
+[ro.hdmi.enable]: [true]
+[ro.hwui.use_vulkan]: []
+[ro.input.noresample]: [1]
+[ro.iorapd.enable]: [false]
+[ro.logd.size.stats]: [64K]
+[ro.minui.pixel_format]: [RGBA_8888]
+[ro.modversion]: [CarbonROM-CR-9.0-R-WEEKLY-z3c-20211027-0359]
+[ro.odm.build.date]: [Wed Oct 27 05:58:01 CEST 2021]
+[ro.odm.build.date.utc]: [1635307081]
+[ro.odm.build.fingerprint]: [Sony/D5803/D5803:6.0.1/23.5.A.1.291/2769308465:user/release-keys]
+[ro.odm.build.id]: [RQ3A.211001.001]
+[ro.odm.build.tags]: [test-keys]
+[ro.odm.build.type]: [user]
+[ro.odm.build.version.incremental]: [162]
+[ro.odm.build.version.release]: [11]
+[ro.odm.build.version.release_or_codename]: [11]
+[ro.odm.build.version.sdk]: [30]
+[ro.odm.product.cpu.abilist]: [armeabi-v7a,armeabi]
+[ro.odm.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.odm.product.cpu.abilist64]: []
+[ro.opa.eligible_device]: [true]
+[ro.opengles.version]: [196608]
+[ro.postinstall.fstab.prefix]: [/system]
+[ro.product.board]: [MSM8974]
+[ro.product.brand]: [Sony]
+[ro.product.build.date]: [Wed Oct 27 05:58:01 CEST 2021]
+[ro.product.build.date.utc]: [1635307081]
+[ro.product.build.fingerprint]: [Sony/D5803/D5803:6.0.1/23.5.A.1.291/2769308465:user/release-keys]
+[ro.product.build.id]: [RQ3A.211001.001]
+[ro.product.build.tags]: [release-keys]
+[ro.product.build.type]: [user]
+[ro.product.build.version.incremental]: [162]
+[ro.product.build.version.release]: [11]
+[ro.product.build.version.release_or_codename]: [11]
+[ro.product.build.version.sdk]: [30]
+[ro.product.cpu.abi]: [armeabi-v7a]
+[ro.product.cpu.abi2]: [armeabi]
+[ro.product.cpu.abilist]: [armeabi-v7a,armeabi]
+[ro.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.product.cpu.abilist64]: []
+[ro.product.device]: [z3c]
+[ro.product.first_api_level]: [19]
+[ro.product.locale]: [en-US]
+[ro.product.manufacturer]: [Sony]
+[ro.product.model]: [Xperia Z3 Compact]
+[ro.product.name]: [carbon_z3c]
+[ro.product.odm.brand]: [Sony]
+[ro.product.odm.device]: [z3c]
+[ro.product.odm.manufacturer]: [Sony]
+[ro.product.odm.model]: [Xperia Z3 Compact]
+[ro.product.odm.name]: [carbon_z3c]
+[ro.product.product.brand]: [Sony]
+[ro.product.product.device]: [z3c]
+[ro.product.product.manufacturer]: [Sony]
+[ro.product.product.model]: [Xperia Z3 Compact]
+[ro.product.product.name]: [carbon_z3c]
+[ro.product.system.brand]: [Sony]
+[ro.product.system.device]: [z3c]
+[ro.product.system.manufacturer]: [Sony]
+[ro.product.system.model]: [Xperia Z3 Compact]
+[ro.product.system.name]: [carbon_z3c]
+[ro.product.system_ext.brand]: [Sony]
+[ro.product.system_ext.device]: [z3c]
+[ro.product.system_ext.manufacturer]: [Sony]
+[ro.product.system_ext.model]: [Xperia Z3 Compact]
+[ro.product.system_ext.name]: [carbon_z3c]
+[ro.product.vendor.brand]: [Sony]
+[ro.product.vendor.device]: [z3c]
+[ro.product.vendor.manufacturer]: [Sony]
+[ro.product.vendor.model]: [Xperia Z3 Compact]
+[ro.product.vendor.name]: [carbon_z3c]
+[ro.property_service.version]: [2]
+[ro.qc.sdk.audio.fluencetype]: [none]
+[ro.qc.sdk.audio.ssr]: [false]
+[ro.qc.sdk.camera.facialproc]: [false]
+[ro.qc.sdk.gestures.camera]: [false]
+[ro.qcom.ad]: [1]
+[ro.qcom.ad.calib.data]: [/vendor/etc/ad_calib.cfg]
+[ro.qti.sdk.sensors.gestures]: [false]
+[ro.qti.sensors.amd]: [false]
+[ro.qti.sensors.bte]: [false]
+[ro.qti.sensors.cmc]: [false]
+[ro.qti.sensors.dpc]: [false]
+[ro.qti.sensors.facing]: [false]
+[ro.qti.sensors.fns]: [false]
+[ro.qti.sensors.game_rv]: [true]
+[ro.qti.sensors.georv]: [true]
+[ro.qti.sensors.gtap]: [false]
+[ro.qti.sensors.max_accel_rate]: [false]
+[ro.qti.sensors.max_geomag_rotv]: [50]
+[ro.qti.sensors.max_gyro_rate]: [false]
+[ro.qti.sensors.max_mag_rate]: [false]
+[ro.qti.sensors.pam]: [false]
+[ro.qti.sensors.pedometer]: [false]
+[ro.qti.sensors.qmd]: [false]
+[ro.qti.sensors.rmd]: [false]
+[ro.qti.sensors.scrn_ortn]: [false]
+[ro.qti.sensors.smd]: [true]
+[ro.qti.sensors.step_counter]: [true]
+[ro.qti.sensors.step_detector]: [true]
+[ro.qti.sensors.tap]: [false]
+[ro.qti.sensors.tilt]: [false]
+[ro.qti.sensors.tilt_detector]: [true]
+[ro.qti.sensors.vmd]: [false]
+[ro.qti.sensors.wu]: [false]
+[ro.qualcomm.perf.cores_online]: [2]
+[ro.revision]: [0]
+[ro.rfkilldisabled]: [1]
+[ro.ril.enable.amr.wideband]: [1]
+[ro.ril.svdo]: [false]
+[ro.ril.svlte1x]: [false]
+[ro.ril.telephony.mqanelements]: [5]
+[ro.romstats.name]: [CarbonROM]
+[ro.romstats.url]: [https://stats.carbonrom.org]
+[ro.romstats.version]: [CR-9.0-R-WEEKLY-z3c-20211027-0359]
+[ro.secure]: [1]
+[ro.semc.ms_type_id]: [PM-0810-BV]
+[ro.semc.product.model]: [D5803]
+[ro.setupwizard.enterprise_mode]: [1]
+[ro.sf.lcd_density]: [320]
+[ro.sys.sdcardfs]: [true]
+[ro.system.build.date]: [Wed Oct 27 05:58:01 CEST 2021]
+[ro.system.build.date.utc]: [1635307081]
+[ro.system.build.fingerprint]: [Sony/D5803/D5803:6.0.1/23.5.A.1.291/2769308465:user/release-keys]
+[ro.system.build.id]: [RQ3A.211001.001]
+[ro.system.build.tags]: [release-keys]
+[ro.system.build.type]: [user]
+[ro.system.build.version.incremental]: [162]
+[ro.system.build.version.release]: [11]
+[ro.system.build.version.release_or_codename]: [11]
+[ro.system.build.version.sdk]: [30]
+[ro.system_ext.build.date]: [Wed Oct 27 05:58:01 CEST 2021]
+[ro.system_ext.build.date.utc]: [1635307081]
+[ro.system_ext.build.fingerprint]: [Sony/D5803/D5803:6.0.1/23.5.A.1.291/2769308465:user/release-keys]
+[ro.system_ext.build.id]: [RQ3A.211001.001]
+[ro.system_ext.build.tags]: [release-keys]
+[ro.system_ext.build.type]: [user]
+[ro.system_ext.build.version.incremental]: [162]
+[ro.system_ext.build.version.release]: [11]
+[ro.system_ext.build.version.release_or_codename]: [11]
+[ro.system_ext.build.version.sdk]: [30]
+[ro.telephony.call_ring.multiple]: [false]
+[ro.telephony.default_network]: [9]
+[ro.treble.enabled]: [false]
+[ro.url.legal]: [http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html]
+[ro.usb.pid_suffix]: [1BB]
+[ro.vendor.build.date]: [Wed Oct 27 05:58:01 CEST 2021]
+[ro.vendor.build.date.utc]: [1635307081]
+[ro.vendor.build.fingerprint]: [Sony/D5803/D5803:6.0.1/23.5.A.1.291/2769308465:user/release-keys]
+[ro.vendor.build.id]: [RQ3A.211001.001]
+[ro.vendor.build.tags]: [release-keys]
+[ro.vendor.build.type]: [user]
+[ro.vendor.build.version.incremental]: [162]
+[ro.vendor.build.version.release]: [11]
+[ro.vendor.build.version.release_or_codename]: [11]
+[ro.vendor.build.version.sdk]: [30]
+[ro.vendor.extension_library]: [libqti-perfd-client.so]
+[ro.vendor.product.cpu.abilist]: [armeabi-v7a,armeabi]
+[ro.vendor.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.vendor.product.cpu.abilist64]: []
+[ro.vendor.qti.am.reschedule_service]: [true]
+[ro.vendor.qti.sys.fw.bservice_enable]: [true]
+[ro.vendor.wifi.addr_path]: [/sys/devices/platform/bcmdhd_wlan/macaddr]
+[ro.vndk.lite]: [true]
+[ro.vndk.version]: [30]
+[ro.wifi.channels]: []
+[ro.zygote]: [zygote32]
+[security.perf_harden]: [1]
+[selinux.restorecon_recursive]: [/data/misc_ce/0]
+[service.bootanim.exit]: [1]
+[service.sf.present_timestamp]: [0]
+[sys.boot_completed]: [1]
+[sys.bootstat.first_boot_completed]: [1]
+[sys.io.scheduler]: [bfq]
+[sys.isolated_storage_snapshot]: [true]
+[sys.keymaster.loaded]: [true]
+[sys.listeners.registered]: [true]
+[sys.refresh_typeface]: [false]
+[sys.rescue_boot_count]: [1]
+[sys.retaildemo.enabled]: [0]
+[sys.rss_hwm_reset.on]: [0]
+[sys.sysctl.extra_free_kbytes]: [10800]
+[sys.sysctl.tcp_def_init_rwnd]: [60]
+[sys.system_server.start_count]: [1]
+[sys.system_server.start_elapsed]: [21522]
+[sys.system_server.start_uptime]: [21522]
+[sys.usb.config]: [adb]
+[sys.usb.configfs]: [0]
+[sys.usb.controller]: [f9200000.dwc3]
+[sys.usb.ffs.aio_compat]: [1]
+[sys.usb.ffs.ready]: [1]
+[sys.usb.state]: [adb]
+[sys.use_memfd]: [false]
+[sys.user.0.ce_available]: [true]
+[sys.wifitracing.started]: [1]
+[telephony.lteOnCdmaDevice]: [0]
+[telephony.lteOnGsmDevice]: [1]
+[vold.has_adoptable]: [1]
+[vold.has_quota]: [0]
+[vold.has_reserved]: [0]
+[vold.post_fs_data_done]: [1]
+[wifi.interface]: [wlan0]
+
+
+---System MountInfo---
+
+813 812 179:23 / / ro,nodev,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+814 813 0:12 / /dev rw,nosuid,relatime master:2 - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755
+815 814 0:9 / /dev/pts rw,relatime master:3 - devpts devpts rw,seclabel,mode=600
+816 814 0:17 / /dev/cpuctl rw,nosuid,nodev,noexec,relatime master:10 - cgroup none rw,cpu
+817 814 0:19 / /dev/memcg rw,nosuid,nodev,noexec,relatime master:12 - cgroup none rw,memory
+818 814 0:21 / /dev/usb-ffs/adb rw,relatime master:18 - functionfs adb rw
+827 813 0:3 / /proc rw,relatime master:4 - proc proc rw,gid=3009,hidepid=2
+831 813 0:13 / /sys rw,relatime master:5 - sysfs sysfs rw,seclabel
+833 831 0:11 / /sys/fs/selinux rw,relatime master:6 - selinuxfs selinuxfs rw
+1138 831 0:5 / /sys/kernel/debug rw,relatime master:13 - debugfs /sys/kernel/debug rw,seclabel
+1143 831 0:20 / /sys/fs/fuse/connections rw,relatime master:15 - fusectl none rw
+1158 813 0:14 / /mnt rw,nosuid,nodev,noexec,relatime master:7 - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755,gid=1000
+1163 1158 0:14 /user /mnt/installer rw,nosuid,nodev,noexec,relatime master:8 - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755,gid=1000
+1178 1163 0:64 / /mnt/installer/0/emulated rw,nosuid,nodev,noexec,noatime master:29 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+1183 1178 0:63 /0/Android/data /mnt/installer/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:32 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+1198 1178 0:63 /0/Android/data /mnt/installer/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:32 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+1203 1178 0:63 /0/Android/obb /mnt/installer/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+1223 1178 0:63 /0/Android/obb /mnt/installer/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,unshared_obb
+1233 1178 0:63 /0/Android/obb /mnt/installer/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,unshared_obb
+1234 1163 0:110 / /mnt/installer/0/3465-6537 rw,nosuid,nodev,noexec,noatime master:67 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+1256 1158 0:14 /user /mnt/androidwritable rw,nosuid,nodev,noexec,relatime master:9 - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755,gid=1000
+1261 1256 0:64 / /mnt/androidwritable/0/emulated rw,nosuid,nodev,noexec,noatime master:27 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+1276 1261 0:63 /0/Android/data /mnt/androidwritable/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:36 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+1281 1261 0:63 /0/Android/data /mnt/androidwritable/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:36 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+1296 1261 0:63 /0/Android/obb /mnt/androidwritable/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:48 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+1301 1261 0:63 /0/Android/obb /mnt/androidwritable/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:48 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+2044 1256 0:110 / /mnt/androidwritable/0/3465-6537 rw,nosuid,nodev,noexec,noatime master:65 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+2049 1158 0:63 / /mnt/runtime/default/emulated rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+2073 1158 0:63 / /mnt/runtime/read/emulated rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=23,derive_gid,default_normal,unshared_obb
+2078 1158 0:63 / /mnt/runtime/write/emulated rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,unshared_obb
+2094 1158 0:63 / /mnt/runtime/full/emulated rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,unshared_obb
+2099 1158 0:64 / /mnt/user/0/emulated rw,nosuid,nodev,noexec,noatime master:25 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+2123 2099 0:63 /0/Android/data /mnt/user/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime shared:40 master:36 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+2128 2099 0:63 /0/Android/data /mnt/user/0/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:36 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+2148 2099 0:63 /0/Android/obb /mnt/user/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime shared:52 master:48 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+2158 2099 0:63 /0/Android/obb /mnt/user/0/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:48 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+2159 1158 0:63 / /mnt/pass_through/0/emulated rw,nosuid,nodev,noexec,noatime master:20 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=9997,multiuser,mask=7,derive_gid,default_normal,unshared_obb
+2205 1158 179:65 / /mnt/media_rw/3465-6537 rw,nosuid,nodev,noexec,noatime master:56 - vfat /dev/block/vold/public:179,65 rw,dirsync,gid=1023,fmask=0007,dmask=0007,allow_utime=0020,codepage=cp437,iocharset=utf8,shortname=mixed,utf8,errors=remount-ro
+2215 1158 0:109 / /mnt/runtime/default/3465-6537 rw,nosuid,nodev,noexec,noatime master:58 - sdcardfs /mnt/media_rw/3465-6537 rw,fsuid=1023,fsgid=1023,gid=1015,mask=6
+2216 1158 0:109 / /mnt/runtime/read/3465-6537 rw,nosuid,nodev,noexec,noatime master:58 - sdcardfs /mnt/media_rw/3465-6537 rw,fsuid=1023,fsgid=1023,gid=9997,mask=18
+2240 1158 0:109 / /mnt/runtime/write/3465-6537 rw,nosuid,nodev,noexec,noatime master:58 - sdcardfs /mnt/media_rw/3465-6537 rw,fsuid=1023,fsgid=1023,gid=9997,mask=18
+2245 1158 0:109 / /mnt/runtime/full/3465-6537 rw,nosuid,nodev,noexec,noatime master:58 - sdcardfs /mnt/media_rw/3465-6537 rw,fsuid=1023,fsgid=1023,gid=9997,mask=7
+2259 1158 0:110 / /mnt/user/0/3465-6537 rw,nosuid,nodev,noexec,noatime master:63 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+2264 1158 0:109 / /mnt/pass_through/0/3465-6537 rw,nosuid,nodev,noexec,noatime master:58 - sdcardfs /mnt/media_rw/3465-6537 rw,fsuid=1023,fsgid=1023,gid=9997,mask=7
+2290 813 0:15 / /apex rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755
+2295 2290 179:23 /system/apex/com.android.adbd /apex/com.android.adbd ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2319 2290 179:23 /system/apex/com.android.art.release /apex/com.android.art ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2324 2290 179:23 /system/apex/com.android.cellbroadcast /apex/com.android.cellbroadcast ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2344 2290 179:23 /system/apex/com.android.conscrypt /apex/com.android.conscrypt ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2354 2290 179:23 /system/apex/com.android.extservices /apex/com.android.extservices ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2355 2290 179:23 /system/apex/com.android.i18n /apex/com.android.i18n ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2401 2290 179:23 /system/apex/com.android.ipsec /apex/com.android.ipsec ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2411 2290 179:23 /system/apex/com.android.media /apex/com.android.media ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2412 2290 179:23 /system/apex/com.android.media.swcodec /apex/com.android.media.swcodec ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2433 2412 179:23 /system/etc/swcodec/ld.config.txt /apex/com.android.media.swcodec/etc/ld.config.txt ro,nodev,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2438 2290 179:23 /system/apex/com.android.mediaprovider /apex/com.android.mediaprovider ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2896 2290 179:23 /system/apex/com.android.neuralnetworks /apex/com.android.neuralnetworks ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2901 2290 179:23 /system/apex/com.android.os.statsd /apex/com.android.os.statsd ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2932 2290 179:23 /system/apex/com.android.permission /apex/com.android.permission ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2937 2290 179:23 /system/apex/com.android.resolv /apex/com.android.resolv ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2968 2290 179:23 /system/apex/com.android.runtime /apex/com.android.runtime ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+2973 2290 179:23 /system/apex/com.android.sdkext /apex/com.android.sdkext ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+3004 2290 179:23 /system/apex/com.android.tethering /apex/com.android.tethering ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+3009 2290 179:23 /system/apex/com.android.tzdata /apex/com.android.tzdata ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+3040 2290 179:23 /system/apex/com.android.wifi /apex/com.android.wifi ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+3045 813 0:16 / /linkerconfig rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755
+3095 3045 0:16 /bootstrap /linkerconfig rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755
+3105 813 0:18 / /acct rw,nosuid,nodev,noexec,relatime master:11 - cgroup none rw,cpuacct
+3106 813 0:10 / /config rw,nosuid,nodev,noexec,relatime master:14 - configfs none rw
+3144 813 179:24 / /cache rw,nosuid,nodev,noatime master:16 - ext4 /dev/block/bootdevice/by-name/cache rw,seclabel,noauto_da_alloc,data=ordered
+3149 813 179:25 / /data rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+3181 3149 179:25 /data /data/user/0 rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+3186 813 179:23 /system/etc/gps.conf /system/etc/gps_debug.conf ro,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+3218 813 0:22 / /data_mirror rw,nosuid,nodev,noexec,relatime master:19 - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=700,gid=1000
+3223 3218 179:25 /user /data_mirror/data_ce/null rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4061 3223 179:25 /data /data_mirror/data_ce/null/0 rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4062 3218 179:25 /user_de /data_mirror/data_de/null rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4063 3218 179:25 /misc/profiles/cur /data_mirror/cur_profiles rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4064 813 179:23 /system/etc/swcodec/ld.config.txt /system/apex/com.android.media.swcodec/etc/ld.config.txt ro,nodev,relatime master:1 - ext4 /dev/block/platform/msm_sdcc.1/by-name/system ro,seclabel,discard
+4065 813 0:14 /user/0 /storage rw,nosuid,nodev,noexec,relatime master:7 - tmpfs tmpfs rw,seclabel,size=891960k,nr_inodes=163101,mode=755,gid=1000
+4066 4065 0:64 / /storage/emulated rw,nosuid,nodev,noexec,noatime master:25 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+4067 4066 0:63 /0/Android/data /storage/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime shared:40 master:36 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+4068 4066 0:63 /0/Android/data /storage/emulated/0/Android/data rw,nosuid,nodev,noexec,noatime master:36 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+4069 4066 0:63 /0/Android/obb /storage/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime shared:52 master:48 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+4070 4066 0:63 /0/Android/obb /storage/emulated/0/Android/obb rw,nosuid,nodev,noexec,noatime master:48 - sdcardfs /data/media rw,fsuid=1023,fsgid=1023,gid=1015,multiuser,mask=6,derive_gid,default_normal,unshared_obb
+4071 4065 0:110 / /storage/3465-6537 rw,nosuid,nodev,noexec,noatime master:63 - fuse /dev/fuse rw,user_id=0,group_id=0,allow_other
+4072 3149 0:47 / /data/data rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+4073 3149 0:132 / /data/user rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+4074 3149 0:133 / /data/user_de rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+4075 4074 179:25 /user_de/0/com.topjohnwu.magisk /data/user_de/0/com.topjohnwu.magisk rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4076 4072 179:25 /data/com.topjohnwu.magisk /data/data/com.topjohnwu.magisk rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4077 4074 179:25 /user_de/0/com.google.android.gms /data/user_de/0/com.google.android.gms rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4078 4072 179:25 /data/com.google.android.gms /data/data/com.google.android.gms rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+4079 3149 0:134 / /data/misc/profiles/cur rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,seclabel,mode=751
+4080 4079 179:25 /misc/profiles/cur/0/com.topjohnwu.magisk /data/misc/profiles/cur/0/com.topjohnwu.magisk rw,nosuid,nodev,noatime master:17 - ext4 /dev/block/bootdevice/by-name/userdata rw,seclabel,noauto_da_alloc,data=ordered
+
+---Magisk Logs---
+ (-1)
+
+--------- beginning of main
+11-05 11:51:22.977  5967  5967 I opjohnwu.magis: Late-enabling -Xcheck:jni
+11-05 11:51:23.019  5967  5967 I opjohnwu.magis: Unquickening 13 vdex files!
+11-05 11:51:23.542  5967  5967 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-05 11:51:23.544  5967  5967 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-05 11:51:23.620  5967  5967 W opjohnwu.magisk: type=1400 audit(0.0:64): avc: denied { read } for name="u:object_r:virtual_ab_prop:s0" dev="tmpfs" ino=9469 scontext=u:r:untrusted_app:s0:c191,c256,c512,c768 tcontext=u:object_r:virtual_ab_prop:s0 tclass=file permissive=0 app=com.topjohnwu.magisk
+11-05 11:51:23.622  5967  5967 E libc    : Access denied finding property "ro.virtual_ab.enabled"
+11-05 11:51:23.645  5967  5967 I TetheringManager: registerTetheringEventCallback:com.topjohnwu.magisk
+11-05 11:51:23.902  5967  5967 W opjohnwu.magis: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+11-05 11:51:23.904  5967  5967 W opjohnwu.magis: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: <qeglDrvAPI_eglInitialize:379>: EGL 1.4 QUALCOMM build: Nondeterministic_AU_msm8974_LA.BF.1.1.3_RB1__release_AU (I741a3d36ca)
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.29.00.00
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Build Date: 04/04/16 Mon
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Local Branch: mybranch19053788
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Remote Branch: quic/LA.BF.1.1.3_rb1.12
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Local Patches: NONE
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Reconstruct Branch: NOTHING
+11-05 11:51:24.020  5967  6078 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:607>: EGL_BAD_ATTRIBUTE
+11-05 11:51:24.036  5967  6078 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:607>: EGL_BAD_ATTRIBUTE
+11-05 11:51:24.061  5967  6078 I Gralloc4: mapper 4.x is not supported
+11-05 11:51:24.061  5967  6078 W Gralloc3: mapper 3.x is not supported
+11-05 11:51:24.075  5967  5967 W opjohnwu.magis: Accessing hidden method Landroid/app/ActivityThread;->currentApplication()Landroid/app/Application; (greylist, reflection, allowed)
+11-05 11:51:24.424  5967  6096 I opjohnwu.magis: The ClassLoaderContext is a special shared library.
+11-05 11:51:24.436  5967  6096 I opjohnwu.magis: The ClassLoaderContext is a special shared library.
+11-05 11:51:24.571  5967  6096 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 294 native methods...
+11-05 11:51:24.643  5967  6096 W opjohnwu.magis: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+11-05 11:51:24.816  5967  6096 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+11-05 11:51:24.827  5967  6096 W opjohnwu.magis: Accessing hidden method Ljava/lang/invoke/MethodHandles$Lookup;-><init>(Ljava/lang/Class;I)V (greylist, reflection, allowed)
+11-05 11:51:24.933  5967  5967 I AppCompatDelegate: The Activity's LayoutInflater already has a Factory installed so we can not install AppCompat's
+11-05 11:51:25.129  5967  5984 I opjohnwu.magis: Background young concurrent copying GC freed 53461(3387KB) AllocSpace objects, 30(648KB) LOS objects, 88% free, 3070KB/26MB, paused 3.067ms total 108.812ms
+11-05 11:51:25.892  5967  6275 I okhttp.OkHttpClient: --> GET https://topjohnwu.github.io/magisk-files/canary.json
+11-05 11:51:26.146  5967  6275 W opjohnwu.magis: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+11-05 11:51:26.149  5967  6078 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:607>: EGL_BAD_ATTRIBUTE
+11-05 11:51:26.156  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+11-05 11:51:26.178  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+11-05 11:51:26.376  5967  6078 I OpenGLRenderer: Davey! duration=966ms; Flags=1, IntendedVsync=58900270081, Vsync=59383603424, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=59397783059, AnimationStart=59397797642, PerformTraversalsStart=59398245194, DrawStart=59710232309, SyncQueued=59843559197, SyncStart=59847793363, IssueDrawCommandsStart=59848382895, SwapBuffers=59869296648, FrameCompleted=59871313575, DequeueBufferDuration=171042, QueueBufferDuration=512604, GpuCompleted=-72057594021150720, 
+11-05 11:51:26.468  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+11-05 11:51:26.469  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+11-05 11:51:26.567  5967  6275 I okhttp.OkHttpClient: <-- 200 https://topjohnwu.github.io/magisk-files/canary.json (674ms, unknown-length body)
+11-05 11:51:26.877  5967  5967 W Choreographer: Frame time is 0.31579798 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:27.133  5967  5967 W Choreographer: Frame time is 0.340936 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.229  5967  5967 W Choreographer: Frame time is 0.324407 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.332  5967  5967 W Choreographer: Frame time is 0.324736 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.434  5967  5967 W Choreographer: Frame time is 0.342338 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.657  5967  5967 W Choreographer: Frame time is 0.335157 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.196  5967  5967 W Choreographer: Frame time is 0.329606 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.401  5967  5967 W Choreographer: Frame time is 0.342423 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.538  5967  5967 W Choreographer: Frame time is 0.28756 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.966  5967  5967 W Choreographer: Frame time is 0.326328 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.068  5967  5967 W Choreographer: Frame time is 0.343703 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.171  5967  5967 W Choreographer: Frame time is 0.06399 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.377  5967  5967 W Choreographer: Frame time is 0.33519 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.497  5967  5967 W Choreographer: Frame time is 0.038559 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:36.643  5967  5967 W Choreographer: Frame time is 0.332186 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+
+---Manager Logs---
+1546eecf (23012)
+
+--------- beginning of main
+11-05 11:51:22.977  5967  5967 I opjohnwu.magis: Late-enabling -Xcheck:jni
+11-05 11:51:23.019  5967  5967 I opjohnwu.magis: Unquickening 13 vdex files!
+11-05 11:51:23.542  5967  5967 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-05 11:51:23.544  5967  5967 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-05 11:51:23.620  5967  5967 W opjohnwu.magisk: type=1400 audit(0.0:64): avc: denied { read } for name="u:object_r:virtual_ab_prop:s0" dev="tmpfs" ino=9469 scontext=u:r:untrusted_app:s0:c191,c256,c512,c768 tcontext=u:object_r:virtual_ab_prop:s0 tclass=file permissive=0 app=com.topjohnwu.magisk
+11-05 11:51:23.622  5967  5967 E libc    : Access denied finding property "ro.virtual_ab.enabled"
+11-05 11:51:23.645  5967  5967 I TetheringManager: registerTetheringEventCallback:com.topjohnwu.magisk
+11-05 11:51:23.902  5967  5967 W opjohnwu.magis: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+11-05 11:51:23.904  5967  5967 W opjohnwu.magis: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: <qeglDrvAPI_eglInitialize:379>: EGL 1.4 QUALCOMM build: Nondeterministic_AU_msm8974_LA.BF.1.1.3_RB1__release_AU (I741a3d36ca)
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: OpenGL ES Shader Compiler Version: E031.29.00.00
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Build Date: 04/04/16 Mon
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Local Branch: mybranch19053788
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Remote Branch: quic/LA.BF.1.1.3_rb1.12
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Local Patches: NONE
+11-05 11:51:23.999  5967  6078 I Adreno-EGL: Reconstruct Branch: NOTHING
+11-05 11:51:24.020  5967  6078 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:607>: EGL_BAD_ATTRIBUTE
+11-05 11:51:24.036  5967  6078 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:607>: EGL_BAD_ATTRIBUTE
+11-05 11:51:24.061  5967  6078 I Gralloc4: mapper 4.x is not supported
+11-05 11:51:24.061  5967  6078 W Gralloc3: mapper 3.x is not supported
+11-05 11:51:24.075  5967  5967 W opjohnwu.magis: Accessing hidden method Landroid/app/ActivityThread;->currentApplication()Landroid/app/Application; (greylist, reflection, allowed)
+11-05 11:51:24.424  5967  6096 I opjohnwu.magis: The ClassLoaderContext is a special shared library.
+11-05 11:51:24.436  5967  6096 I opjohnwu.magis: The ClassLoaderContext is a special shared library.
+11-05 11:51:24.571  5967  6096 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 294 native methods...
+11-05 11:51:24.643  5967  6096 W opjohnwu.magis: Accessing hidden method Ljava/security/spec/ECParameterSpec;->getCurveName()Ljava/lang/String; (greylist, reflection, allowed)
+11-05 11:51:24.816  5967  6096 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+11-05 11:51:24.827  5967  6096 W opjohnwu.magis: Accessing hidden method Ljava/lang/invoke/MethodHandles$Lookup;-><init>(Ljava/lang/Class;I)V (greylist, reflection, allowed)
+11-05 11:51:24.933  5967  5967 I AppCompatDelegate: The Activity's LayoutInflater already has a Factory installed so we can not install AppCompat's
+11-05 11:51:25.129  5967  5984 I opjohnwu.magis: Background young concurrent copying GC freed 53461(3387KB) AllocSpace objects, 30(648KB) LOS objects, 88% free, 3070KB/26MB, paused 3.067ms total 108.812ms
+11-05 11:51:25.892  5967  6275 I okhttp.OkHttpClient: --> GET https://topjohnwu.github.io/magisk-files/canary.json
+11-05 11:51:26.146  5967  6275 W opjohnwu.magis: Accessing hidden field Ljava/net/Socket;->impl:Ljava/net/SocketImpl; (greylist, reflection, allowed)
+11-05 11:51:26.149  5967  6078 W Adreno-EGL: <qeglDrvAPI_eglGetConfigAttrib:607>: EGL_BAD_ATTRIBUTE
+11-05 11:51:26.156  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/CloseGuard;->get()Ldalvik/system/CloseGuard; (greylist,core-platform-api, linking, allowed)
+11-05 11:51:26.178  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/CloseGuard;->open(Ljava/lang/String;)V (greylist,core-platform-api, linking, allowed)
+11-05 11:51:26.376  5967  6078 I OpenGLRenderer: Davey! duration=966ms; Flags=1, IntendedVsync=58900270081, Vsync=59383603424, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=59397783059, AnimationStart=59397797642, PerformTraversalsStart=59398245194, DrawStart=59710232309, SyncQueued=59843559197, SyncStart=59847793363, IssueDrawCommandsStart=59848382895, SwapBuffers=59869296648, FrameCompleted=59871313575, DequeueBufferDuration=171042, QueueBufferDuration=512604, GpuCompleted=-72057594021150720, 
+11-05 11:51:26.468  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/BlockGuard;->getThreadPolicy()Ldalvik/system/BlockGuard$Policy; (greylist,core-platform-api, linking, allowed)
+11-05 11:51:26.469  5967  6275 W opjohnwu.magis: Accessing hidden method Ldalvik/system/BlockGuard$Policy;->onNetwork()V (greylist, linking, allowed)
+11-05 11:51:26.567  5967  6275 I okhttp.OkHttpClient: <-- 200 https://topjohnwu.github.io/magisk-files/canary.json (674ms, unknown-length body)
+11-05 11:51:26.877  5967  5967 W Choreographer: Frame time is 0.31579798 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:27.133  5967  5967 W Choreographer: Frame time is 0.340936 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.229  5967  5967 W Choreographer: Frame time is 0.324407 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.332  5967  5967 W Choreographer: Frame time is 0.324736 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.434  5967  5967 W Choreographer: Frame time is 0.342338 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:28.657  5967  5967 W Choreographer: Frame time is 0.335157 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.196  5967  5967 W Choreographer: Frame time is 0.329606 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.401  5967  5967 W Choreographer: Frame time is 0.342423 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.538  5967  5967 W Choreographer: Frame time is 0.28756 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:30.966  5967  5967 W Choreographer: Frame time is 0.326328 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.068  5967  5967 W Choreographer: Frame time is 0.343703 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.171  5967  5967 W Choreographer: Frame time is 0.06399 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.377  5967  5967 W Choreographer: Frame time is 0.33519 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:31.497  5967  5967 W Choreographer: Frame time is 0.038559 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:36.643  5967  5967 W Choreographer: Frame time is 0.332186 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:37.635  5967  5967 W Choreographer: Frame time is 0.312109 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:39.071  5967  5967 W Choreographer: Frame time is 0.318447 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:39.293  5967  5967 W Choreographer: Frame time is 0.312341 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:39.823  5967  5967 W Choreographer: Frame time is 0.315288 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:42.164  5967  5967 W Choreographer: Frame time is 0.276619 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+11-05 11:51:42.269  5967  5967 W Choreographer: Frame time is 0.328647 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
